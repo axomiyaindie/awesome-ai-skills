@@ -2,22 +2,21 @@
 
 A curated collection of essential skills, resources, and learning paths to master Artificial Intelligence. This repository provides structured roadmaps for aspiring AI practitioners, from beginners to advanced professionals.
 
-## 🎯 Learning Paths
+## Learning Paths
 
 Choose your journey based on your goals:
 
-- **🔵 Path 1: Foundational AI & ML** - Master classical machine learning, deep learning, and core AI concepts
-- **🟣 Path 2: Generative AI & LLMs** - Specialize in large language models, prompt engineering, and creative AI
-- **🟠 Path 3: Agentic AI & Autonomous Systems** - Build intelligent agents that can reason, plan, and act independently
+- **Path 1: Foundational AI & ML** - Master classical machine learning, deep learning, and core AI concepts
+- **Path 2: Generative AI & LLMs** - Specialize in large language models, prompt engineering, and creative AI
+- **Path 3: Agentic AI & Autonomous Systems** - Build intelligent agents that can reason, plan, and act independently
 
-## 📚 Contents
+## Contents
 
 - [Programming Languages](#programming-languages)
 - [AI Frameworks & Libraries](#ai-frameworks--libraries)
 - [Core AI Domains](#core-ai-domains)
 - [Infrastructure & MLOps](#infrastructure--mlops)
 - [Learning Resources](#learning-resources)
-- [Career Guidance](#career-guidance)
 - [Contributing](#contributing)
 
 ## Programming Languages
@@ -80,12 +79,12 @@ Choose your journey based on your goals:
 
 ### Books
 - Deep Learning by Ian Goodfellow
-- Hands-On Machine Learning by Aurélien Géron
+- Hands-On Machine Learning by Aurelien Geron
 - Artificial Intelligence: A Modern Approach
 
 ## Contributing
 
-Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting pull requests.
+Contributions are welcome. Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting pull requests.
 
 ## License
 
@@ -100,4 +99,4 @@ Join discussions and connect with other AI enthusiasts:
 
 ---
 
-**Note**: This repository is continuously updated. Star ⭐ it to stay informed about new additions!
+**Note**: This repository is continuously updated. Star it to stay informed about new additions!
