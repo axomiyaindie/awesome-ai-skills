@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Awesome AI Skills
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -54,3 +55,6 @@ Join discussions and connect with other AI enthusiasts:
 ---
 
 **Note**: This repository is continuously updated. Star it to stay informed about new additions!
+=======
+# awesome-ai-skills
+>>>>>>> upstream/main
