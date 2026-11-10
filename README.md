@@ -1,5 +1,10 @@
 ﻿# Awesome AI Skills
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![GitHub Stars](https://img.shields.io/github/stars/axomiyaindie/awesome-ai-skills.svg)](https://github.com/axomiyaindie/awesome-ai-skills/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/axomiyaindie/awesome-ai-skills.svg)](https://github.com/axomiyaindie/awesome-ai-skills/issues)
+
 A curated collection of essential skills, resources, and learning paths to master Artificial Intelligence. This repository provides structured roadmaps for aspiring AI practitioners, from beginners to advanced professionals.
 
 ## Learning Paths
@@ -12,79 +17,28 @@ Choose your journey based on your goals:
 
 ## Contents
 
-- [Programming Languages](#programming-languages)
-- [AI Frameworks & Libraries](#ai-frameworks--libraries)
-- [Core AI Domains](#core-ai-domains)
-- [Infrastructure & MLOps](#infrastructure--mlops)
-- [Learning Resources](#learning-resources)
-- [Contributing](#contributing)
+- [Programming Languages](programming-languages/README.md)
+- [AI Frameworks & Libraries](frameworks/README.md)
+- [Core AI Domains](domains/README.md)
+- [Infrastructure & MLOps](infrastructure/README.md)
+- [Learning Resources](resources/README.md)
+- [Skills Index (JSON)](skills_index.json)
+- [Contributing](CONTRIBUTING.md)
 
-## Programming Languages
+## Quick Start
 
-### Primary Languages
-- **Python** - The dominant language for AI/ML development
-- **C++** - For performance-critical AI applications
-- **Rust** - Emerging in AI infrastructure and systems programming
-- **Julia** - High-performance scientific computing and numerical analysis
-
-## AI Frameworks & Libraries
-
-### Deep Learning
-- PyTorch
-- TensorFlow
-- JAX
-- Keras
-
-### Machine Learning
-- Scikit-learn
-- XGBoost
-- LightGBM
-- CatBoost
-
-### NLP & LLMs
-- Hugging Face Transformers
-- LangChain
-- LlamaIndex
-- spaCy
-
-### Computer Vision
-- OpenCV
-- Detectron2
-- YOLO
-
-## Core AI Domains
-
-- Machine Learning Fundamentals
-- Deep Learning Architectures
-- Natural Language Processing (NLP)
-- Computer Vision
-- Reinforcement Learning
-- Generative AI & LLMs
-- Agentic AI Systems
-
-## Infrastructure & MLOps
-
-- Cloud Platforms (AWS, GCP, Azure)
-- Model Deployment Strategies
-- Vector Databases
-- Monitoring & Scaling
-- Version Control for Models
-
-## Learning Resources
-
-### Courses
-- Andrew Ng's Machine Learning Specialization
-- Fast.ai Practical Deep Learning
-- Hugging Face NLP Course
-
-### Books
-- Deep Learning by Ian Goodfellow
-- Hands-On Machine Learning by Aurelien Geron
-- Artificial Intelligence: A Modern Approach
+1. Browse the [Skills Index](skills_index.json) for machine-readable skill data
+2. Choose a learning path based on your career goals
+3. Follow the structured resources in each category
+4. Contribute back by adding valuable resources you discover
 
 ## Contributing
 
 Contributions are welcome. Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting pull requests.
+
+You can also use our issue templates to:
+- [Add a new resource](https://github.com/axomiyaindie/awesome-ai-skills/issues/new?template=add-resource.yml)
+- [Report an issue](https://github.com/axomiyaindie/awesome-ai-skills/issues/new?template=report-issue.yml)
 
 ## License
 
